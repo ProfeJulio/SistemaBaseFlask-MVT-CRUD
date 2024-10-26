@@ -14,4 +14,4 @@ Aplicación Web que implementa MVT, CRUD con el framework Flask de Python
 * MarkupSafe==3.0.2
 * Werkzeug==3.0.5
 ### Terceros
-* bootstrap=5.3.3
+* bootstrap=5.3.3 En la carpeta *static* se deba agregar la carpeta *bootstrap-5.3.3-dist* con las respectivas carpetas *bootstrap-5.3.3-dist/css* y *bootstrap-5.3.3-dist/js*
